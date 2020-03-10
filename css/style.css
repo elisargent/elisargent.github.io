@@ -4,18 +4,18 @@ body {
 	}
 
 h1 {
-    	font-family: 'Notable', sans-serif;
+    	font-family: 'Monospace', courier-new;
     	color: gray;
     	font-size: 50px;
 	}
 
 a {
-    	color: red;
+    	color: green;
     	font-family: 'Dancing Script', cursive;
     	font-size: 24px;
     	text-decoration: none;
 	}
 
 a:hover{
-  	color: green;
+  	color: red;
 	}
