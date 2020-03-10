@@ -1,7 +1,7 @@
 body {
-    	background-color: #663399;
-    	color: white;
-	}
+    	#grad {
+  background-image: linear-gradient(purple, blue, orange);
+}
 
 h1 {
     	font-family: 'Monospace', courier;
